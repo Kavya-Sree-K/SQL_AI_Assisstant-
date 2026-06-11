@@ -151,13 +151,6 @@ SQL_AI_Assistant/
 
 ## ⚙️ Installation
 
-### Clone Repository
-
-```bash
-git clone https://github.com/Kavya-Sree-K/SQL_AI_Assisstant-.git
-cd SQL_AI_Assisstant-
-```
-
 ### Create Virtual Environment
 
 ```bash
@@ -184,23 +177,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
----
-
-## 🔑 Environment Variables
-
-Create a `.env` file in the project root directory.
-
-```env
-GOOGLE_API_KEY=your_gemini_api_key
-
-DB_USER=root
-DB_PASSWORD=your_mysql_password
-DB_HOST=localhost
-DB_PORT=3306
-DB_NAME=CSV_DB
-```
-
----
 
 ## ▶️ Running the Application
 
